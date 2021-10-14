@@ -1,0 +1,1 @@
+Esse site foi desevolvido para treinar HTML5 e CSS3, e um simples site com responsividade nas imagens, videos e textos e uma simples nav bar
