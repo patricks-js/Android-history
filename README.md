@@ -6,10 +6,14 @@
 
 Essa é parte da interface web vizualizando no desktop 
 
-![Alt text](Readme-img/header.png?raw=true "Title")
+<div>
+  <img src="Readme-img/header.png">
+</div>
 
 ### Interface web mobile
 
 E essa é parte da interface web vizualizando no mobile
 
-![Alt text](Readme-img/mobile.png?raw=true "Title")
+<div align="center">
+  <img src="Readme-img/mobile.png">
+<div>
