@@ -1,1 +1,4 @@
-Esse site foi desevolvido para treinar HTML5 e CSS3, e um simples site com responsividade nas imagens, videos e textos e uma simples nav bar
+## Parte da história do mascote android é contada neste site criado no intuito de informar
+
+<img src="Readme-img/header">
+<img src="Readme-img/mobile">
